@@ -1,0 +1,43 @@
+
+body {
+  margin: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.avatar {
+  width: 170px;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #ddebf8;
+  color: #2b2839;
+  border-bottom: 8px solid #d8cefe; 
+}
+
+.red-circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  background: #BC002D;
+  /* margin-top: 40px;
+  margin-right: auto;
+  margin-bottom: 40px;
+  margin-left: auto; */
+  margin: 40px auto;
+  
+}
+
+
+
+
+
+
+
+
